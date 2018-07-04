@@ -1,0 +1,12 @@
+Implemented a recommender system for movie
+recommendations. It allows a user to select his choices from a given set of
+dataset and then recommend him a movie list based on the similarities
+between the test movie and all the other movies present in the dataset using
+the cosine simulator function. By the nature of our system, it is not an easy
+task to evaluate the performance since there is no right or wrong
+recommendation; it is just a matter of opinions. Having a larger
+data set that will enable more meaningful results using the system.
+
+Different machine learning and clustering algorithms have been implemented and studied the comparative results.
+Keywords: K-means, recommendation system, recommender system, data
+mining, clustering, movies, Collaborative filtering, content based filtering
